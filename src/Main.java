@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+
         String instruction = "введіть число і натисніть Enter";
 
         Scanner scanner = new Scanner(System.in);
@@ -46,6 +47,7 @@ public class Main {
             default -> System.out.println("Перевірте, чи обрали ви щось з існуючих опцій");
 
         }
+
 
 
     }
