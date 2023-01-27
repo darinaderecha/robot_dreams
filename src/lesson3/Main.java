@@ -2,13 +2,12 @@ package lesson3;
 
 public class Main {
     public static void main(String[] args) {
-        int a = 2;
-        int b = -44;
+        String str = "Hello World";
 
-        System.out.println(a + b);
-        System.out.println(a - b);
-        System.out.println((double)a/b);
-        System.out.println(a * b);
+        System.out.println(str.toUpperCase());
+        System.out.println(str.toLowerCase());
+        System.out.println(str.charAt(0));
+        System.out.println(str.charAt(str.length() - 1));
 
     }
 }
