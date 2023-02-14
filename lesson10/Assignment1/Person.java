@@ -52,3 +52,10 @@ public class Person {
         isMan = man;
     }
 }
+
+
+
+
+
+
+
