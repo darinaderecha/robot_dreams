@@ -23,4 +23,5 @@ public class Main {
         a.initializeArray();
         a.printArray();
     }
+
 }
